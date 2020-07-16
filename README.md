@@ -3,7 +3,6 @@ Muon is an ahead-of-time compiler for C# and Visual Basic, powered by Roslyn and
 
 # The team
 - [John K.](https://github.com/john-h-k) - Project Lead (Ultz)
-- [Dylan P.](https://github.com/Perksey) - Maintainer (Ultz)
 
 # Building from source
 
